@@ -13,4 +13,4 @@ design into intentional product aesthetics.
 ## Files
 | File | Description |
 |---|---|
-| *(ice cube tray)* | Ice tray part model |
+| *ice cube tray* | Ice tray part model |
