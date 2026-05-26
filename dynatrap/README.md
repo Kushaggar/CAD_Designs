@@ -12,4 +12,4 @@ without chemicals. This is a SolidWorks model of the device.
 ## Files
 | File | Description |
 |---|---|
-| *(your filename here)* | Full part / assembly model |
+| *Dynatrap_v1.0* | Full part / assembly model |
