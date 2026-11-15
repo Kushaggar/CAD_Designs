@@ -14,3 +14,4 @@ design into intentional product aesthetics.
 | File | Description |
 |---|---|
 | *ice cube tray* | Ice tray part model |
+![Alt text describing the image](Screenshot 2026-11-15 154846.png)
