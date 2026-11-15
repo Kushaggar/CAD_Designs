@@ -13,4 +13,4 @@ design into intentional product aesthetics.
 ## Files
 | File | Description |
 |---|---|
-| *ice cube tray* | Ice tray part model |
+| [Ice Cube Tray](./icecubetray.sldprt/) | Ice tray part model |
