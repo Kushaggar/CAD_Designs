@@ -10,7 +10,7 @@ design intent and key decisions.
 |---|---|---|
 | [Dynatrap](./dynatrap/) | Industrial / Consumer Product | Functional assembly, form-follows-function |
 | [Home Decor Shelf](./home-decor-shelf/) | Aesthetic / Product Design | Geometry, proportions, visual design in CAD |
-| [Ice tray](./ice-tray/) | Consumer Product Design | Geometry, form, aesthetic-driven CAD |
+| [Ice tray](./Ice-Tray/) | Consumer Product Design | Geometry, form, aesthetic-driven CAD |
 | [V8 Engine](./v8-engine/) | Automotive / Mechanical Assembly | Multi-component assembly, motion study |
 
 
